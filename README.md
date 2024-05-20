@@ -11,14 +11,6 @@ Qiskit is an open-source SDK for working with quantum computers at the level of 
 
 The following quantum algorithms are implemented in this repository:
 
-- **Quantum Fourier Transform (QFT)** - The quantum analogue of the discrete Fourier transform.
-- **Shor's Algorithm** - An algorithm for integer factorization.
-- **Grover's Algorithm** - A search algorithm that runs quadratically faster than any possible classical algorithm.
-- **Quantum Phase Estimation** - Used to estimate the phase (or eigenvalue) of an eigenstate of a unitary operator.
-- **Variational Quantum Eigensolver (VQE)** - An algorithm designed to find the ground state energies of molecules and other Hamiltonians.
-- **Quantum Walks** - Implementation of both discrete and continuous quantum walks.
-
-Each folder in the repository contains the following:
 
 - A Python script with the Qiskit implementation of the algorithm.
 - A Jupyter notebook that provides a detailed tutorial on how to use and understand the algorithm.
